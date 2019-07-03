@@ -9,7 +9,7 @@ You should follow the procedure below.
 5. Create a folder named mkdir with your nickname.
 6. In the folder, create a hello.txt file with the touch command.
 7. Once you have completed the above steps, add all of your changes with the "git add --all" command.
-8. Create a commit and enter the command "git push origin develop".
+8. Create a commit(The commit comment is your nickname) and enter the command "git push origin develop".
 9. Go to my repository created in your account.
 10. Go to the branches tab and click "New Pull Request" in "your branches".
 11. Send a Pull Request to me.
